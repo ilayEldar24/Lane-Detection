@@ -63,6 +63,7 @@ To process a video for lane detection, follow these steps:
 3. Combine the processed frames into a new video using OpenCV.
 4. Adjust parameters and settings as needed for optimal lane detection results.
 
+
 ## Usage
 
 To use the lane detection pipeline on your own images or videos, follow these steps:
@@ -72,25 +73,7 @@ To use the lane detection pipeline on your own images or videos, follow these st
 3. Run the main script (`lane_detection.py`) with your input images or videos.
 4. Adjust parameters as needed for optimal lane detection results.
 
-## Credits
 
-This project was inspired by [insert source or inspiration here].
-
-## License
-
-This project is licensed under the [MIT License](link_to_license).
-## Usage
-
-To use the lane detection pipeline on your own images or videos, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies (`numpy`, `opencv-python`, etc.).
-3. Run the main script (`lane_detection.py`) with your input images or videos.
-4. Adjust parameters as needed for optimal lane detection results.
-
-## Credits
-
-This project was inspired by [insert source or inspiration here].
 
 ## License
 
