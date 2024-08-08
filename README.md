@@ -74,7 +74,3 @@ To use the lane detection pipeline on your own images or videos, follow these st
 4. Adjust parameters as needed for optimal lane detection results.
 
 
-
-## License
-
-This project is licensed under the [MIT License](link_to_license).
